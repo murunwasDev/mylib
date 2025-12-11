@@ -1,4 +1,4 @@
-[
+export const NPM_BSC=[
   'constructor(address _deployer, address _factory, address _WETH9, address _tokenDescriptor_)',
   'event Approval(address indexed owner, address indexed approved, uint256 indexed tokenId)',
   'event ApprovalForAll(address indexed owner, address indexed operator, bool approved)',
